@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-
 int rev=0,t;
 char a;
 printf("enter the string:");
@@ -19,9 +18,7 @@ printf("it is a palindrome");
 }
 else
 {
-
 printf("it is not a palindrome");
 }
-
 return 0;
 }
