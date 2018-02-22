@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main(void) {
+int main(void) 
+{
  int i,k;
  scanf("%d %d",&i,&k);
     printf(" value of i=%d k=%d before swapping", i, k);
