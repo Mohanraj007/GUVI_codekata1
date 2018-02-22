@@ -1,17 +1,17 @@
 #include <stdio.h>
 int main(void) 
 {
-    int a[10];
+    int b[10];
     int i;
     int greatest;
     for (i = 0; i < 10; i++) 
     {
-    scanf("%d", &a[i]);
+    scanf("%d", &b[i]);
     }
-    greatest = a[0];
+    greatest = b[0];
     for (i = 0; i < 10; i++) {
-    if (a[i] > greatest) {
-    greatest = a[i];
+    if (b[i] > greatest) {
+    greatest = b[i];
     }
     }
     printf("%d", greatest);
