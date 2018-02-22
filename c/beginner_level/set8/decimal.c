@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 int main(void) {
-	float a;
-	scanf("%f",&a);
-	int b=ceil(a);
+	float a1;
+	scanf("%f",&a1);
+	int b=ceil(a1);
 	printf("%d",b);
 	return 0;
 }
