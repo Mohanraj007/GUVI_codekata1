@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.util.ArrayList;
-public class opp1
+public class oppp
 {
     public static void main(String aa[]){
      int a;
