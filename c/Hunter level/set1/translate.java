@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class translate
+class ideone
 {
 	public static void main (String[] args)
 	{
