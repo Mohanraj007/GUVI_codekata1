@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include<stdio.h>
 #include <string.h>
 #define MAX 50
  
@@ -7,8 +7,7 @@ int top = -1, front = 0;
 int stack[MAX];
 void push(char);
 void pop();
- 
-void main()
+ void main()
 {
     int i, choice;
     char s[MAX], b;
